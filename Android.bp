@@ -15878,6 +15878,7 @@ cc_prebuilt_library_shared {
                 "libmedia_helper",
                 "libaudioclient",
                 "libaudiobase",
+                "libwfdaudio_shim",
                 "libaudiofoundation",
                 "audioclient-types-aidl-cpp",
                 "android.media.audio.common.types-V5-cpp",
